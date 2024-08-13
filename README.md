@@ -1,1 +1,1 @@
-# linktree
+Just a simple linktree
